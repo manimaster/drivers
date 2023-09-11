@@ -1,0 +1,4 @@
+Dependencies need to be installed using go get. For example:
+MongoDB: go get go.mongodb.org/mongo-driver/mongo
+DynamoDB: go get github.com/aws/aws-sdk-go
+MySQL: go get -u github.com/go-sql-driver/mysql
